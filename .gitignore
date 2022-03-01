@@ -1,0 +1,9 @@
+node_modules
+dist
+lib
+logs
+
+*.log
+*.log??
+npm-debug.log*
+.vscode/workbench.json
